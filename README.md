@@ -1,0 +1,1 @@
+# hitoma-local-dns-update-daemon
