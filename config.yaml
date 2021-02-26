@@ -1,3 +1,4 @@
 github:
   repo: shawngmc/hitoma-local-dns-zones
-status:
+deploy:
+  dir: /home/coder/repos/hitoma-local-dns-update-daemon/.testtarget
